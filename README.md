@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boahen016
 - 👀 I’m full stack web developer;
    javascript,php,mysql
-- 💞️ I’m looking to collaborate on 
+- 💞️ I'm looking to collaborate on any web development
 - 📫 How to reach me yawboahen016@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
