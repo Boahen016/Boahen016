@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boahen016
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning web development
+- 👀 I’m full stack web developer;
+   javascript,php,mysql
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yawboahen016@gmail.com 
 - 😄 Pronouns: ...
